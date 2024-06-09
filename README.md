@@ -2,4 +2,4 @@
 :snowflake: Play with AI tools
 
 ## Play
-- Chat with the documents: [chat-with-documents](chat-with-documents/README.md)
+- Chat with the documents: [chat-with-documents](chat-with-documents)

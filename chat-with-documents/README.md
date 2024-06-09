@@ -18,7 +18,7 @@ curl --location 'http://localhost:8080/documents/import' \
 ```shell
 curl --location 'http://localhost:8080/documents/chat' \
 --data '{
-    "prompt": "Tell me about invoice with number 9923215?"
+    "prompt": "Tell me about invoice with number 9923215"
 }'
 ```
 
